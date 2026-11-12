@@ -1,0 +1,34 @@
+/* Plain, readable pages for the games' policies. */
+body {
+  margin: 0;
+  background: #f4f6fb;
+  color: #14233a;
+  font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 20px 48px;
+}
+h1 {
+  font-size: 28px;
+  line-height: 1.25;
+  margin: 0 0 4px;
+}
+h2 {
+  font-size: 19px;
+  margin: 28px 0 6px;
+}
+.date,
+.foot {
+  color: #5d6877;
+  font-size: 14px;
+}
+.foot {
+  margin-top: 40px;
+  border-top: 1px solid #dde2ea;
+  padding-top: 16px;
+}
+a {
+  color: #0062d1;
+}
